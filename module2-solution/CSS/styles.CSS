@@ -9,7 +9,9 @@ body{
 
 }
 
-.row{width: 150%;}
+.row{
+	width: 150%;
+}
 
 h1{
 	text-align: center;
